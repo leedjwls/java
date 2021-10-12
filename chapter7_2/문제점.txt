@@ -1,0 +1,3 @@
+dictionary.txt에 정상적으로 사전을 입력하고 실행했으나
+dictionary.txt에 있는 단어의 뜻이 정확히 출력되지 않는 문제가 발생하였다.
+WordServer.java의 반복문을 이용한 배열 출력 과정에 문제가 있었던것같다.

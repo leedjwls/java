@@ -1,0 +1,3 @@
+코드를 짤때 FileWriter fw = new FileWriter("example4_1.txt")을 사용했기때문에
+내용을 입력했을때 파일이 example4_1.txt 이름으로 저장되었고
+코드 실행 후 example4_1.txt파일이 정상적으로 생성된 사진과 텍스트파일 내용을 첨부하였다.
